@@ -42,8 +42,8 @@ def find_matching_images(input_image_path, folder_path):
     return matching_images
 
 if __name__ == "__main__":
-    input_image_path = 'E:\FaceSearchApp\images\29977.jpg'  # Change this to your input image path
-    folder_path = 'E:\FaceSearchApp\images'  # Change this to your folder path
+    input_image_path = '<IMAGE PATH TO BE SEARCHED>'  # Change this to your input image path
+    folder_path = '<FOLDER PATH WHERE TO  SEARCH >'  # Change this to your folder path
 
     matching_images = find_matching_images(input_image_path, folder_path)
     
