@@ -27,6 +27,8 @@ Explain how to install your project. For example:
 4. Install Required Packages:
    ```bash
    pip install face_recognition pillow
+   or
+   pip install -r requirements.txt
 5. Change Path of folder and input image in "face_recognition_script.py"
    ```bash
    input_image_path = <Input image path to be searched>
