@@ -2,7 +2,7 @@
 # Face Search App
 
 ## Description
-This project is a facial recognition application that searches for faces in images. It helps identify and organize pictures based on the people in them.
+This project is a facial recognition application that searches for faces present in an input image. It identifies the face and searches for it in an image folder that contains multiple images.
 
 ## Getting Started
 ### Prerequisites
